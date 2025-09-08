@@ -30,7 +30,7 @@ Task data is stored persistently in PostgreSQL and will remain until manually de
 
 # 🧑‍💻 Author
 Osadebamwen Onoshokwe Ekhator (Osas) Student Software Engineer, passionate about building helpful tools that elevate the living experiences of people worldwide!
-📧 Email: osadebamwen.ekhator@gmail.com 🐙 GitHub: github.com/osasekhator
+- 📧 Email: osadebamwen.ekhator@gmail.com 🐙 GitHub: github.com/osasekhator
 
 # 📜 License
 This project is for educational purposes and is open-source under the MIT License.
