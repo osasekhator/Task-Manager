@@ -29,7 +29,8 @@ Deleting individual tasks will not reset the sequence unless the table becomes e
 Task data is stored persistently in PostgreSQL and will remain until manually deleted
 
 # 🧑‍💻 Author
-Osadebamwen Onoshokwe Ekhator (Osas) Student Software Engineer, passionate about building helpful tools that elevate the living experiences of people worldwide 📧 Email: osadebamwen.ekhator@gmail.com 🐙 GitHub: github.com/osasekhator
+Osadebamwen Onoshokwe Ekhator (Osas) Student Software Engineer, passionate about building helpful tools that elevate the living experiences of people worldwide!
+📧 Email: osadebamwen.ekhator@gmail.com 🐙 GitHub: github.com/osasekhator
 
 # 📜 License
 This project is for educational purposes and is open-source under the MIT License.
